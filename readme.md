@@ -1,4 +1,9 @@
 # 뉴스스탠드 프로젝트
+## Demo
+
+https://github.com/altmit/fe-max--newsstand/assets/41321198/257d20c7-cb55-4305-a57c-7a397a73ba57
+데모 영상 당시(23년 11월  12일) 크롤링으로 얻어 놓았던 이미지 url의 변경으로 화면에 출력이 안되고 있습니다 ㅠㅠ
+
 
 ## 1주차
 
